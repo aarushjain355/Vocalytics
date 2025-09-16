@@ -1,5 +1,7 @@
 # Hack-Trent-2024
 
+https://devpost.com/AarushJain?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
+
 ## Server Documentation
 
 * The server code lives in the root directory with the main entry point in main.py
